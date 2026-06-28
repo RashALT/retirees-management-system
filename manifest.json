@@ -1,0 +1,28 @@
+{
+  "name": "نظام إدارة المتقاعدين",
+  "short_name": "المتقاعدين",
+  "lang": "ar",
+  "dir": "rtl",
+  "version": "1.0.0",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F5F1",
+  "theme_color": "#9A7B2F",
+  "description": "نظام إدارة المتقاعدين - القيادة العامة لشرطة الشارقة",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
